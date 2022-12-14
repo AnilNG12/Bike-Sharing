@@ -1,52 +1,39 @@
-# Project Name
-> Outline a brief description of your project.
+# Bike Sharing Assignment
+BoomBikes is US based bike-sharing provider and due to the pandamic The company is finding it very difficult to sustain in the current market scenario and they want to come up with a mindful business plan to be able to accelerate its revenu
+
+Need  to model the demand for shared bikes with the available variables using the provided data set.
+
+It will be used by the management to understand how exactly the demands vary with different features.
+They can accordingly manipulate the business strategy to meet the demand levels and meet the customer's expectations
+> 
 
 
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
+
 
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+Used the sample provided sample data to build the model to predict the demand vary with different features , so that accordingly bussiness strategy can be defined.
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+1.	During the Fall session the rental cnt is increased and during the spring it is decreased
+2.	From month May to Oct the rental cnt is increased 
+3.	Year 2018 has higher bookings than 2022
+4.	In rain time the rental count is decreased significantly 
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
 
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
+Phython version 3.9.12
 
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by Anil Kumar pallepati - feel free to contact me!
 
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
